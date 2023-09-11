@@ -1,0 +1,4 @@
+ao declarar uma variavel em escopo local e não utiliza-la
+importar um pacote e não utilizar: o compilador barra.
+
+a:= "X" - comumente usado em variaveis de escopo local
